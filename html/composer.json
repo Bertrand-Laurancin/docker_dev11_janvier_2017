@@ -1,0 +1,19 @@
+{
+    "name": "acme/library",
+    "description": "Bibiothèque de prêt de livres",
+    "type": "prroject",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "raveren/kint": "^1.0",
+        "monolog/monolog": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Bertrand laurancin",
+            "email": "blaurancin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpro/grumphp": "^0.11.1"
+    }
+}
